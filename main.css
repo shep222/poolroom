@@ -1,0 +1,41 @@
+
+
+
+.main_container {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 70vw;
+}
+
+.poolTable {
+    background-image: url(./images/poolTable2.jpeg);
+    background-size: cover;
+    height: 250px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+}
+
+.poolTable2 {
+    background-image: url(./images/pooltable.jpeg);
+    background-size: cover;
+    height: 160px;
+    width: 250px;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+}
+
+.empty {
+    height: 220px;
+    width: 350px;
+}
+
+
+.info {
+    padding-top: 40px;
+}
